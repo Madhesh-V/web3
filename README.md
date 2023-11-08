@@ -1,12 +1,4 @@
-# leranweb3
-
-<p align="center">
-  <a href="https://github.com/Madhesh-V" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/M9uocHi.png" alt="my banner"></a>
-<p align="center">
-Freshman 🚀
-Learn the absolute basics of Web3
-
-The Ethers Project
+# The Ethers Project
 ==================
 
 [![npm (tag)](https://img.shields.io/npm/v/ethers)](https://www.npmjs.com/package/ethers)
